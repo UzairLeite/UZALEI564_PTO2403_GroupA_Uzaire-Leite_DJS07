@@ -11,11 +11,3 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <App />
   </React.StrictMode>,
 )
-
-export default function App() {
-    return (
-        <div>
-            <Header />
-        </div>
-    )
-}
